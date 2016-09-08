@@ -1,0 +1,46 @@
+{  
+   "Name":"Acme",
+   "Mob":"+xx-xxxxx-xxxxx",
+   "e-mail":"acme@demo.com",
+   "Github":"github.com/acme",
+   "OBJECTIVE":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+   "SUMMARY":[  
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+   ],
+   "AREAS OF INTREST":[  
+      "acme technologies",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+   ],
+   "EDUCATION":[  
+      {  
+         "Degree/Certificate":"ACME",
+         "Discipline":"Computer Science"
+      }
+   ],
+   "INDUSTRY":[  
+      {  
+         "Designation":"acme",
+         "Company":"Acme Pvt. Ltd."
+      }
+   ],
+   "INDUSTRY PROJECTS":[  
+      {  
+         "Title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+         "Details":[  
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+         ]
+      },
+      {  
+         "Title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+         "Details":[  
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+         ]
+      }
+   ]
+}
