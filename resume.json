@@ -5,7 +5,7 @@
    "Github":"github.com/acme",
    "OBJECTIVE":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
    "SUMMARY":[  
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
@@ -31,7 +31,7 @@
          "Title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
          "Details":[  
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
             "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
          ]
       },
